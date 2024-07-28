@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun8295747673" alt="tarun8295747673" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **python, machine learning, generative AI, prompt engineering,**
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tarun-kumar-fresher](https://www.linkedin.com/in/tarun-kumar-fresher)
+
+- 📝 I regularly write articles on [https://github.com/tarun8295747673](https://github.com/tarun8295747673)
+
 - 📫 How to reach me **tarunkumar2322806@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/tarun8295747673](https://github.com/tarun8295747673)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun8295747673&show_icons=true&locale=en&layout=compact" alt="tarun8295747673" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&locale=en" alt="tarun8295747673" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673&" alt="tarun8295747673" /></p>
