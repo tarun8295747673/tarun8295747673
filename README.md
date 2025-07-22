@@ -17,13 +17,16 @@
 
 ---
 
-### 📈 Contribution Overview
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages"/>
+  <a href="https://linkedin.com/in/tarun-kumar-fresher" target="_blank">
+    <img src="https://img.shields.io/badge/Tarun%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/tarun8295747673" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
@@ -31,14 +34,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,mongodb,mysql,pandas,postman,figma" alt="Skills" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun8295747673&theme=gruvbox&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
@@ -63,29 +58,25 @@
 
 ---
 
----
-
----
-
 ### 📈 Contribution Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&locale=en" alt="GitHub Stats"/>
+<!-- Optional Activity Graph -->
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarun8295747673&theme=radical" />
+</p> -->
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarun8295747673&theme=gruvbox&margin-w=10&margin-h=10" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673" alt="GitHub Streak"/>
-</p>
-
-
 
 ---
 
