@@ -66,12 +66,18 @@
 
 ---
 
+---
+
 ### 📈 Contribution Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarun8295747673&theme=github_dark&utcOffset=+5.5" alt="Coding Hours" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
