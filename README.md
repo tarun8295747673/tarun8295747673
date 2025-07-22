@@ -17,16 +17,13 @@
 
 ---
 
-### 🌐 Connect With Me
+### 📈 Contribution Overview
 
 <p align="center">
-  <a href="https://linkedin.com/in/tarun-kumar-fresher" target="_blank">
-    <img src="https://img.shields.io/badge/Tarun%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tarun8295747673" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages"/>
 </p>
+
 
 ---
 
