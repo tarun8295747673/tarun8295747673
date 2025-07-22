@@ -61,6 +61,18 @@
 
 ---
 
+### ⏳ Contribution Progress
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarun8295747673&theme=github_dark&utcOffset=+5.5" alt="Coding Hours" />
+</p>
+
+---
+
 ### 🌟 Fun Fact
 
 <p align="center">
@@ -72,11 +84,7 @@
 
 ---
 
-### 🔗 Let's Connect & Collaborate
-
-<p align="center">
-  If you liked this README, show some ❤️ by starring the repo or connecting on LinkedIn!  
-</p>
+### 🚀 Thanks for Visiting!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=1000&color=F7A60F&center=true&vCenter=true&width=380&lines=Thanks+for+visiting+my+profile!+;Keep+Learning+and+Building+🚀" />
