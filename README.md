@@ -73,8 +73,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673" alt="GitHub Streak"/>
 </p>
 
 
