@@ -1,49 +1,49 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#0e75b6">TARUN KUMAR</span></h1>
-<h3 align="center">💻 A Passionate Computer Science Engineer from India</h3>
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&width=435&lines=Hey!+I'm+Tarun+Kumar+%F0%9F%91%8B;Computer+Science+Engineer+from+India;AI+%7C+ML+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarun8295747673&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tarun8295747673&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 💫 About Me
 
-- 🌱 Currently learning **Python, Machine Learning, Generative AI, Prompt Engineering**
-- 💡 Exploring the intersection of **AI, Web Development, and Automation**
-- 👨‍💻 All my projects are available on [**LinkedIn**](https://www.linkedin.com/in/tarun-kumar-fresher)
-- 📝 I share my thoughts and tutorials on [**GitHub**](https://github.com/tarun8295747673)
-- 📫 Reach me at: **tarunkumar747673@gmail.com**
+- 🔭 I’m currently diving deep into **AI, Machine Learning, and Generative AI**
+- 🌱 Learning: **Python, Prompt Engineering, Web Development**
+- 💡 Exploring creative AI tools and building cool projects
+- 👨‍💻 Check out my work on [LinkedIn](https://www.linkedin.com/in/tarun-kumar-fresher)
+- 📬 Reach me: **tarunkumar747673@gmail.com**
 
 ---
 
-### 📱 Connect With Me
+### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/tarun-kumar-fresher" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
+    <img src="https://img.shields.io/badge/Tarun%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tarun8295747673" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,react,mongodb,mysql,postman,figma,pandas" alt="Tech Stack"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,mongodb,mysql,pandas,postman,figma" alt="Skills" />
 </p>
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Achievements
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tarun8295747673&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarun8295747673&theme=gruvbox&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
@@ -51,20 +51,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarun8295747673&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
 ---
 
-### 📌 Fun Fact
+### 🌟 Fun Fact
 
-💬 “I love turning ideas into reality using code. Whether it’s building a sleek UI or training a machine to think — I’m all in.”
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="fun gif" />
+</p>
+
+> ⚡ “Coding is not just logic, it’s art with syntax.”  
+> 🎯 I love building things that solve real-world problems and spark innovation.
 
 ---
 
-> If you liked this README, drop a ⭐ on my [GitHub](https://github.com/tarun8295747673) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarun-kumar-fresher). Let's grow together 🚀
+### 🔗 Let's Connect & Collaborate
+
+<p align="center">
+  If you liked this README, show some ❤️ by starring the repo or connecting on LinkedIn!  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=1000&color=F7A60F&center=true&vCenter=true&width=380&lines=Thanks+for+visiting+my+profile!+;Keep+Learning+and+Building+🚀" />
+</p>
