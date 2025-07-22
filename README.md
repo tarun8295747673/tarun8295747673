@@ -68,6 +68,8 @@
 
 ---
 
+---
+
 ### 📈 Contribution Overview
 
 <p align="center">
@@ -75,8 +77,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun8295747673" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun8295747673&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
+
 
 
 ---
