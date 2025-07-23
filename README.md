@@ -13,7 +13,7 @@
 - 🔭 Currently learning **AI, Machine Learning, and Generative AI**
 - 🌱 Skills: **Python, Prompt Engineering, Web Development**
 - 👨‍💻 Projects on [LinkedIn](https://www.linkedin.com/in/tarun-kumar-fresher)
-- 📬 Email: **tarunkumar747673@gmail.com**
+- 📬 Email: [tarunkumar747673@gmail.com](mailto:tarunkumar747673@gmail.com)
 
 ---
 
@@ -62,13 +62,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun8295747673&theme=github_dark" alt="Profile Summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun8295747673&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 <!-- Optional Activity Graph -->
-<!-- <p align="center">
+<!-- 
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarun8295747673&theme=radical" />
-</p> -->
+</p> 
+-->
 
 ---
 
